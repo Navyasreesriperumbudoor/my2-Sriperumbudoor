@@ -4,7 +4,6 @@ Iam a proper hyderabadi girl, born and bought up in hyderabad. i have spent my 2
 
 ![MyStats](navya.jpeg)
 
-----
 # Tables
 
 Here is the list of sports, I would recommend someone to try because playing sports improve physical fitness and mental health.
@@ -23,8 +22,6 @@ Here is the list of sports, I would recommend someone to try because playing spo
 |Football        |Promotes teamwork and coordination  |4 |
 |Basketball      |Perfect for overall fitness     |3  |
 |Tennis          |Releive stress       | 1 |
-
-
 
 ----
 
