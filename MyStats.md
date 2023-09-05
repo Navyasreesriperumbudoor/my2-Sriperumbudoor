@@ -34,3 +34,26 @@ Here is the list of sports, I would recommend someone to try because playing spo
 
 -----
 Code Fencing
+
+>
+```
+/deep/ mat-horizontal-stepper   
+@for $i from 1 through 42     
+&.last-edited-step-#{$i}      
+@for $j from 1 through $i         
+.mat-stepper-horizontal-line:nth-of-type(#{$j})           
+border-color: #00c190 !important
+
+```
+[source of stack overflow sass code](https://www.reddit.com/r/Frontend/comments/10sv9oy/i_need_help_please_i_saw_a_sass_code_on_stack/?rdt=60597)
+
+
+>
+```
+.container {
+  display: grid | inline-grid;
+}
+
+```
+
+[source of code snippet code](https://css-tricks.com/snippets/css/complete-guide-grid/#aa-basics-browser-support)
