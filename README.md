@@ -12,4 +12,4 @@ Kerala is known as **God's own country**. it is a place filled with **greenery a
 - chameen curry
 - puttu
 
-[go through it]()
+[go through it](https://github.com/Navyasreesriperumbudoor/my2-sriperumbudoor/blob/main/MyStats.md)
